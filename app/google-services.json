@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271469327116",
+    "project_id": "login-signup-test-eba6c",
+    "storage_bucket": "login-signup-test-eba6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271469327116:android:4b649b1bff03a4c33c8f29",
+        "android_client_info": {
+          "package_name": "com.example.loginsignuptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqBOppVABmjqnnc712fN1AJQbOv7CIFx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
